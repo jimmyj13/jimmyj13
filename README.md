@@ -49,6 +49,7 @@
 ![Plesk](https://img.shields.io/badge/Plesk-Obsidian-blue?logo=plesk&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+[![License](https://img.shields.io)](https://opensource.org)
 
 **DevOps & Cloud**
 
